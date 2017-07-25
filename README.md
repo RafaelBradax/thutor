@@ -14,3 +14,7 @@ Bibliotecas/Frameworks/Plugins utilizados no desenvolvimento do projeto:
 - Bootstrap 3.3.7
 - MaskedInput 1.4.1
 - ViaCEP (Online)
+
+O dump do banco de dados está no arquivo:
+
+\thutor.sql
