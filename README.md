@@ -9,7 +9,8 @@ Requisitos mínimos para o funcionamento do projeto
 
 Bibliotecas/Frameworks/Plugins utilizados no desenvolvimento do projeto:
 
-- JQuery
-- Bootstrap
-- MaskedInput
-- ViaCEP
+- CodeIgniter 3.1.5
+- JQuery 3.2.1
+- Bootstrap 3.3.7
+- MaskedInput 1.4.1
+- ViaCEP (Online)
